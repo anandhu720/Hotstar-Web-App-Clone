@@ -1,0 +1,181 @@
+/* navbar section */
+
+.Navbar{
+    background-color: #040714;
+    margin: 0;
+    padding:0;
+}
+
+.navbar-logo{
+    height: 50px;
+}
+
+.navbar-btn{
+    margin-right: 2%;
+}
+
+/* end */
+
+/* login.jsx */
+
+.center {
+    color: #f9f9f9;
+    align-content: center;
+}
+.login-btn{ 
+    width:100%;
+    margin: 1%;
+    padding:1.5%;
+}
+
+.login-btn:hover{ 
+    transform: scale(1.1);
+}
+
+.login-dis{
+    font-size:12px;
+    text-align: center;
+}
+
+.secondlogo{
+    width: 100%;
+}
+
+
+#mydiv {
+    position:fixed;
+    top: 50%;
+    left: 45%;
+    width:40em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+}
+
+/* end */
+
+/* home.jsx */
+
+.home-body{
+    color: #f9f9f9;
+}
+
+.Slideshow{
+    width:100%;
+}
+
+.main-card{
+    left: 50%;
+    background-color: #040714;
+    margin: 6% 1%;
+    padding: auto;
+    border-radius: 25px;
+}
+
+.main-card:hover{
+    transform: scale(1.15);
+}
+
+.card-img{
+    height: 200px;
+}
+
+.hovervideoplayer{
+    border-radius: 25px;
+    width:100%;
+    
+}
+
+
+.movie-heading{
+    margin:1%;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.movie-card{
+    margin:2%;
+}
+
+.movie-card:hover{
+    transform: scale(1.1);
+}
+
+@media only screen and (max-width: 1100px){
+    #mydiv{
+        width:30em;
+        left:50%;
+    }
+    .main-card{
+        margin-top:10%;
+    }
+    .movie-card{
+        margin: 10% 0%;
+    }
+    .movie-heading{
+        margin:1%;
+        font-size:15px;
+        font-weight: bold;
+        text-align: center;
+    }
+}
+
+
+
+@media only screen and (max-width: 770px){
+    #mydiv{
+        width:20em;
+        left:70%;
+    }
+    .main-card{
+        left: 0;
+    }
+    .movie-card{
+        margin: 10% 0%;
+    }
+    .movie-heading{
+        margin:1%;
+        font-size:15px;
+        font-weight: bold;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 350px){
+    #mydiv{
+        width:15em;
+        left:87%;
+    }
+    .main-card{
+        left: 0;
+    }
+    .movie-card{
+        margin: 10% 0%;
+    }
+    .movie-heading{
+        margin:1%;
+        font-size:15px;
+        font-weight: bold;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 290px){
+    #mydiv{
+        width:15em;
+        left:95%;
+    }
+    .main-card{
+        left: 0;
+    }
+    .movie-card{
+        margin: 10% 0%;
+    }
+    .movie-heading{
+        margin:1%;
+        font-size:15px;
+        font-weight: bold;
+        text-align: center;
+    }
+    
+}
