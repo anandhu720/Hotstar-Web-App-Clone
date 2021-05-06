@@ -2,6 +2,8 @@
 
 Hotstar-Disney+ clone using ReactJS
 
+## Installation
+
 ```
 git clone https://github.com/anandhu720/disney-hotstar-clone.git
 
