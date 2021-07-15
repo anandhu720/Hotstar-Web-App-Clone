@@ -21,5 +21,5 @@ npm start
 
 ## Website link
 
-https://determined-bardeen-6a04b8.netlify.app/
+https://hotstar-88d5e.web.app
 
