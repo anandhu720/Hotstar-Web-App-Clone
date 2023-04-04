@@ -1,5 +1,5 @@
 # Disney Hotstar UI Clone
-
+<img src="https://media.giphy.com/media/vAu3uN2sY1DvXv0a46/giphy.gif">
 Hotstar-Disney+ UI clone using ReactJS
 
 Most Simple Project you can do when ypu start studying ReactJS.It is only made using ReactJS.
